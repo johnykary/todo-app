@@ -39,6 +39,8 @@ docker exec -it demo-todo-frontend sh
 
 docker exec -it demo-todo-backend sh
 ```
+ 
+To exit the container press `Ctrl + D`
 
 # Useful links
 
