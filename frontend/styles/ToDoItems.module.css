@@ -1,0 +1,18 @@
+.input {
+  width: 100%;
+}
+
+.inputContainer {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.addBtn{
+  background-color: darkgreen;
+}
+
+
+
+

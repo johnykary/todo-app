@@ -1,0 +1,15 @@
+.toDoItemContainer {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 5px;
+}
+  
+
+.deleteBtn{
+    background-color: crimson;
+}
+
+.editBtn{
+    background-color: cadetblue;
+}

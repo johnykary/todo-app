@@ -3,3 +3,19 @@
   font-size: 30px;
   color: plum;
 }
+
+.input{
+  width: 100%;
+}
+
+.toDoItemsContainer{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.toDoItem{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
